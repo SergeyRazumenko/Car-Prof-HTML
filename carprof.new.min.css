@@ -147,7 +147,8 @@ ol li::before {
     top: 0.6rem;
     width: 1.4rem;
     height: 1.3rem;
-    background-image: url(/new-web-assets/img/check.png);
+    background-image: url('https://carprof.ee/new-web-assets/img/check.png'), 
+                  url('https://test.carprof.ee/new-web-assets/img/check.png');
 }
 sup {
     font-size: 0.5rem;
@@ -1611,7 +1612,8 @@ body.modal-open {
 .info .info__thumb {
     position: relative;
     height: 22rem;
-    background-image: url(/new-web-assets/img/info.jpg);
+    background-image: url('https://carprof.ee/new-web-assets/img/info.jpg'), 
+                  url('https://test.carprof.ee/new-web-assets/img/info.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 0.6rem;
@@ -1877,7 +1879,8 @@ body.modal-open {
 }
 .form__input--number {
     padding-left: 6.3rem;
-    background-image: url(/new-web-assets/img/input-number.jpg);
+    background-image: url('https://carprof.ee/new-web-assets/img/input-number.jpg'), 
+                  url('https://test.carprof.ee/new-web-assets/img/input-number.jpg');
     background-position: top left;
     background-repeat: no-repeat;
 }
@@ -2048,7 +2051,8 @@ body.modal-open {
 }
 .map-contacts__image {
     height: 44rem;
-    background-image: url(/new-web-assets/img/map.jpg);
+    background-image: url('https://carprof.ee/new-web-assets/img/map.jpg'), 
+                  url('https://test.carprof.ee/new-web-assets/img/map.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
