@@ -1836,6 +1836,8 @@ body.modal-open {
     box-shadow: none;
     outline: 0;
 }
+.form__input.input--error,
+.form__textarea.input--error{border-color:#ed3f3f}
 .form__input:active,
 .form__input:focus,
 .form__textarea:active,
