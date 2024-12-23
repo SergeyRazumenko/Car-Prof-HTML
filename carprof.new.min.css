@@ -5055,7 +5055,8 @@ figcaption {
 }
 @media (max-width: 460px) {
     .blank-accident {
-        background-image: url(../img/blank-accident-m.png);
+         background-image: url('https://carprof.ee/new-web-assets/img/blank-accident-m.png'), 
+                  url('https://test.carprof.ee/new-web-assets/img/blank-accident-m.png');
         padding-bottom: 20rem;
         background-position: bottom;
     }
