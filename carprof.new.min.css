@@ -1468,7 +1468,7 @@ body.modal-open::before {
     -ms-flex-direction: column;
     flex-direction: column;
     gap: 16px;
-    margin: auto auto 0;
+    margin: 10rem auto 0;
 }
 .contacts-location,
 .modal--contacts-popup .contacts-step {
@@ -5851,6 +5851,9 @@ figcaption {
       width: 100%;
     }
   }
+    .modal--contacts-popup .modal__content {
+        margin: auto auto 0;
+    }
 }
 
 @media (max-width: 1024px) {
