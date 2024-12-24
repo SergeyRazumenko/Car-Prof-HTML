@@ -2787,9 +2787,6 @@ body.modal-open::before {
     .faq .faq__column {
         width: 100%;
     }
-    .stories-slider .stories-slider__item {
-        max-height: 36rem;
-    }
     .stories-slider .stories-slider__item-content {
         top: 60%;
     }
