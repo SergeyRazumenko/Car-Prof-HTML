@@ -5822,3 +5822,4 @@ figcaption {
     width: 32px;
     height: 32px;
 }
+@media (min-width:599px){.temporary-header{position:fixed;top:0;left:0;right:0;bottom:auto;z-index:100;background-color:#000;height:6rem!important}}
