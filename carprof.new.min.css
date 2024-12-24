@@ -2411,7 +2411,6 @@ body.modal-open::before {
 }
 .stories-slider .stories-slider__item .stories-slider__item-img {
     border-radius: 1rem;
-    width: auto;
 }
 .stories-slider .stories-slider__item::before {
     position: absolute;
