@@ -2451,7 +2451,6 @@ body.modal-open::before {
 .stories-slider.owl-carousel .owl-item {
     -webkit-transition: 0.3s;
     transition: 0.3s;
-    opacity: 0.5;
 }
 .owl-item--opacity,
 .stories-slider.owl-carousel .owl-item.active.owl-item--opacity {
