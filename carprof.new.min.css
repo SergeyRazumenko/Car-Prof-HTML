@@ -4760,7 +4760,7 @@ figcaption {
 }
 .why-us .why-us__item {
     border-radius: 0.6rem;
-    padding: 1.6rem 10rem 1.6rem 1.6rem;
+    padding: 1.6rem 8rem 1.6rem 1.6rem;
     background: #f6f5f5;
     position: relative;
 }
@@ -5832,3 +5832,10 @@ figcaption {
 .section--x-small-padding {
   padding: 3.2rem 0;
 }
+
+@media (max-width: 800px) {
+      .why-us__content {
+    max-width: 90%; 
+  }
+    }
+ 
