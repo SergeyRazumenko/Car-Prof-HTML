@@ -1205,6 +1205,7 @@ button {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     max-width: 50%;
+    position: relative;
 }
 .hero__thumb .hero__thumb-img {
     border-radius: 0.6rem;
