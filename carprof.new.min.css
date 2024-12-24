@@ -5828,3 +5828,6 @@ figcaption {
     background-position-y: top;
     background-position-x: center;
 }
+.section--x-small-padding {
+  padding: 3.2rem 0;
+}
