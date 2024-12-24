@@ -5840,29 +5840,24 @@ figcaption {
 }
 
 @media (max-width: 800px) {
-      .why-us__content {
-    max-width: 90%; 
+  .why-us__content {
+    max-width: 90%;
   }
- .hero .hero__content-wrapper--mobile-reverse {
-      flex-direction: column-reverse;
+  .hero .hero__content-wrapper--mobile-reverse {
+    flex-direction: column-reverse;
   }
-    .hero__content--mobile-centered {
-
-
-  .btn {
-
+  .hero__content--mobile-centered {
+    .btn {
       width: 100%;
-    
+    }
   }
 }
-    }
 
 @media (max-width: 1024px) {
-.commission-service .commission-service__icon {
+  .commission-service .commission-service__icon {
     margin-top: 0;
   }
-.btn--large {
+  .btn--large {
     height: 4.8rem;
-  
-}
+  }
 }
