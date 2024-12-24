@@ -4928,7 +4928,7 @@ figcaption {
     justify-content: flex-start;
     -ms-flex-direction: column;
     flex-direction: column;
-    gap: 2.4rem;
+    gap: 2rem;
     border-radius: 1.2rem;
     padding: 2.4rem;
     background: rgba(0, 0, 0, 0.1);
