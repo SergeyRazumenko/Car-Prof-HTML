@@ -1880,13 +1880,13 @@ body.modal-open::before {
 .accordion--highlight .accordion__item .accordion__content {
     padding: 0 1.6rem;
 }
-.info,
 .section--small-padding {
     padding: 4.8rem 0;
 }
 .info .info__title {
     text-align: center;
     color: #fff;
+      margin: 0 0 3.2rem;
 }
 .info .info__list,
 .why-us .why-us__content {
