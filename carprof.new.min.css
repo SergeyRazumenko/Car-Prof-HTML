@@ -1894,6 +1894,7 @@ body.modal-open::before {
     display: -ms-flexbox;
     display: flex;
     gap: 2.4rem;
+    max-width: 80%;
 }
 .info .info__item {
     display: -webkit-box;
@@ -4696,7 +4697,7 @@ figcaption {
     line-height: 1.24;
     letter-spacing: -0.02em;
     color: #323232;
-    margin-bottom: 1.6rem;
+    margin-bottom: 1rem;
 }
 .teammembers .teammembers__avatar {
     -ms-flex-negative: 0;
@@ -4759,7 +4760,7 @@ figcaption {
 }
 .why-us .why-us__item {
     border-radius: 0.6rem;
-    padding: 2rem 10rem 2rem 1.6rem;
+    padding: 1.6rem 10rem 1.6rem 1.6rem;
     background: #f6f5f5;
     position: relative;
 }
