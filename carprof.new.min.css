@@ -4913,6 +4913,7 @@ figcaption {
         flex-direction: column;
         padding: 3.2rem 1.6rem;
         border-radius: 0.6rem;
+         background-image: url("https://carprof.ee/new-web-assets/img/commission-service-m.png"), url("https://test.carprof.ee/new-web-assets/img/commission-service-m.png");
     }
     .commission-service .commission-service__title {
         font-size: 3rem;
