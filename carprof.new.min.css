@@ -4911,6 +4911,7 @@ figcaption {
         -ms-flex-direction: column;
         flex-direction: column;
         padding: 3.2rem 1.6rem;
+        border-radius: 0.6rem;
     }
     .commission-service .commission-service__title {
         font-size: 3rem;
