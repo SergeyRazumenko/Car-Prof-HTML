@@ -3401,13 +3401,15 @@ figcaption {
     gap: 2.4rem;
     overflow: hidden;
 }
+.commission-service .commission-service__icon{
+    margin-top: 1.6rem;
+}
 .commission-service .commission-service__icon,
 .comparison-container .gallery__item,
 .condition-sales .condition-sales__thumb,
 .our-team .our-team__logo {
     -ms-flex-negative: 0;
     flex-shrink: 0;
-      margin-top: 1.6rem;
 }
 .comparison-container .comparison-container__column {
     -webkit-box-flex: 1;
@@ -5853,12 +5855,11 @@ figcaption {
     }
 
 @media (max-width: 1024px) {
-     
- .commission-service__icon {
+.commission-service .commission-service__icon {
     margin-top: 0;
   }
 .btn--large {
     height: 4.8rem;
   
 }
-    }
+}
