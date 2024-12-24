@@ -2055,7 +2055,7 @@ body.modal-open::before {
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
-    top: 15%;
+    top: 10%;
 }
 .section--insurane-bg {
     background-image: url("https://carprof.ee/new-web-assets/img/ensurane-bg.png"), url("https://test.carprof.ee/new-web-assets/img/ensurane-bg.png");
