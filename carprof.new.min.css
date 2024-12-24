@@ -5278,7 +5278,7 @@ figcaption {
     height: 32px;
 }
 .temporary-footer .site-header__main-nav {
-    gap: 1.6rem;
+    gap: 2rem;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -5381,7 +5381,7 @@ figcaption {
     }
 }
 .temporary-footer .temporary-footer__widget-contacts-adress {
-    gap: 1.6rem;
+    gap: 2rem;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
