@@ -2409,6 +2409,7 @@ body.modal-open::before {
     overflow: hidden;
     border-radius: 1rem;
 }
+
 .stories-slider .stories-slider__item .stories-slider__item-img {
     border-radius: 1rem;
 }
