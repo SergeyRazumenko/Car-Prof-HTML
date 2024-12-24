@@ -5819,3 +5819,8 @@ figcaption {
     height: 32px;
 }
 @media (max-width:599px){.temporary-header{position:fixed;top:0;left:0;right:0;bottom:auto;z-index:100;background-color:#000;height:6rem!important}}
+
+.checkbox__input + .checkbox__label::before {
+  font-family: Arial, sans-serif;
+  content: "\2714";
+}
