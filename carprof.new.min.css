@@ -5861,3 +5861,7 @@ figcaption {
     height: 4.8rem;
   }
 }
+
+.modal--contacts-popup.modal--show .modal__content {
+    max-width: 50rem;
+  }
