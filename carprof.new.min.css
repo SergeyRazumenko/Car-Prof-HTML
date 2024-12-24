@@ -1894,8 +1894,8 @@ body.modal-open::before {
     display: -ms-flexbox;
     display: flex;
     gap: 2.4rem;
-    max-width: 80%;
 }
+.why-us .why-us__content {max-width: 80%;}
 .info .info__item {
     display: -webkit-box;
     display: -ms-flexbox;
