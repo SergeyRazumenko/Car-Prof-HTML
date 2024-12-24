@@ -5843,6 +5843,9 @@ figcaption {
       .why-us__content {
     max-width: 90%; 
   }
+ .hero .hero__content-wrapper--mobile-reverse {
+      flex-direction: column-reverse;
+  }
     .hero__content--mobile-centered {
 
 
