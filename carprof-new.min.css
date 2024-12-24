@@ -5033,6 +5033,7 @@ figcaption {
 .temporary-header * {
     font-family: inherit;
 }
+@media (min-width:599px){.main--old-site{margin-top:6rem}}
 .temporary-header .temporary-header__container {
     max-width: 124.8rem;
     width: 100%;
