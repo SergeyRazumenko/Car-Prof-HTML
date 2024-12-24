@@ -5003,6 +5003,9 @@ figcaption {
         -ms-flex-direction: column;
         flex-direction: column;
     }
+    .condition-sales {
+        gap: 0;
+    }
     .interested-links .interested-links__item {
         width: 100%;
     }
