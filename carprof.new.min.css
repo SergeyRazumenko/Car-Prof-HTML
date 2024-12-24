@@ -5840,6 +5840,15 @@ figcaption {
       .why-us__content {
     max-width: 90%; 
   }
+    .hero__content--mobile-centered {
+
+
+  .btn {
+
+      width: 100%;
+    
+  }
+}
     }
 
 @media (max-width: 1024px) {
