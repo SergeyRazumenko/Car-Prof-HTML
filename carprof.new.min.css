@@ -3407,6 +3407,7 @@ figcaption {
 .our-team .our-team__logo {
     -ms-flex-negative: 0;
     flex-shrink: 0;
+      margin-top: 1.6rem;
 }
 .comparison-container .comparison-container__column {
     -webkit-box-flex: 1;
@@ -4939,9 +4940,7 @@ figcaption {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
+        align-items: flex-start;
     -webkit-box-pack: start;
     -ms-flex-pack: start;
     justify-content: flex-start;
@@ -5839,4 +5838,10 @@ figcaption {
     max-width: 90%; 
   }
     }
- 
+
+@media (max-width: 1024px) {
+     
+ .commission-service__icon {
+    margin-top: 0;
+  }
+    }
