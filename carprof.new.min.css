@@ -5128,6 +5128,7 @@ figcaption {
     }
     .why-us {
         grid-template-columns: repeat(1, 1fr);
+         gap: 1.6rem;
     }
     .why-us .why-us__content {
         max-width: 90%;
