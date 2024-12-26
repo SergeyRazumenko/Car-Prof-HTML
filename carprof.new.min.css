@@ -5840,7 +5840,7 @@ figcaption {
 }
 
 @media (max-width: 800px) {
-  .why-us__content {
+  .why-us .why-us__content {
     max-width: 90%;
   }
   .hero .hero__content-wrapper--mobile-reverse {
